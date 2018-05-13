@@ -1,2 +1,2 @@
 
-This is a tiny program to send out emails automatically on scheduled dates
+This is a cool program to send out emails automatically on scheduled dates
